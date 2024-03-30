@@ -72,20 +72,22 @@ Looking forward to connecting with fellow enthusiasts and exploring exciting opp
 ---
 
 ### :fire: My Stats :
-  
-[![Geek Stats](https://github-readme-stats.vercel.app/api?username=VandeshSawant&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VandeshSawant&theme=highcontrast&border_radius=3)](https://git.io/streak-stats)
 
 <div id="header" align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VandeshSawant&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Geek Stats](https://github-readme-stats.vercel.app/api?username=VandeshSawant&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+
+<div id="header" align="center" vertical-align="middle">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VandeshSawant&theme=highcontrast&border_radius=3)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VandeshSawant&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=6000&pause=1000&color=4169E1&center=true&vCenter=true&random=false&width=1305&height=150&lines=Thats+all+for+now+%F0%9F%98%84)](https://git.io/typing-svg)
-
-
-  
 
 <!--
 **VandeshSawant/VandeshSawant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
