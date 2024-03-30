@@ -83,7 +83,7 @@ Looking forward to connecting with fellow enthusiasts and exploring exciting opp
 <div id="header" align="center" vertical-align="middle">
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VandeshSawant&theme=highcontrast&border_radius=3)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VandeshSawant&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VandeshSawant&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
