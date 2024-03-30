@@ -10,6 +10,9 @@
         <a href="https://leetcode.com/vandesh303/">
             <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
         </a>
+        <a href="https://discordapp.com/users/770940186301038594">
+            <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Leetcode Badge"/>
+        </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=VandeshSawant&style=flat-square&color=blue" alt=""/>
     <h1>
