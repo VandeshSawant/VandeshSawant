@@ -39,8 +39,6 @@ Hey there! 👋 I'm Vandesh Sawant
 🔭 As a Software Engineer, I'm actively involved in crafting both frontend and backend solutions for building robust web applications.
 
 ## What I'm Up To :
-🌱 I'm also exploring the world of Technical Content Writing, aiming to share my learnings and insights with the community.
-
 ⚡ In my free time, you can find me solving problems on GeeksforGeeks, reading tech articles, or immersed in game development projects.
 
 ## Let's Connect!
